@@ -5,6 +5,7 @@ PODS:
   - CNIOLinux (2.25.1)
   - CNIOSHA1 (2.25.1)
   - CNIOWindows (2.25.1)
+  - NSGradientView (0.0.1)
   - SwiftNIO (2.25.1):
     - CNIOAtomics (= 2.25.1)
     - CNIODarwin (= 2.25.1)
@@ -18,6 +19,7 @@ PODS:
 
 DEPENDENCIES:
   - Alamofire
+  - NSGradientView
   - SwiftNIO
   - SwiftyJSON
 
@@ -29,6 +31,7 @@ SPEC REPOS:
     - CNIOLinux
     - CNIOSHA1
     - CNIOWindows
+    - NSGradientView
     - SwiftNIO
     - SwiftNIOConcurrencyHelpers
     - SwiftyJSON
@@ -40,10 +43,11 @@ SPEC CHECKSUMS:
   CNIOLinux: e6394d7fd56d36ff43ada5796e9d96c14fcb3546
   CNIOSHA1: 43c4a0cfdea5e8be20927d9d2237ebe4233071f8
   CNIOWindows: 89048520e4a1484bcd5e20c252edf4089913aa7d
+  NSGradientView: 221211f3b39b034e54f8faf95273e0060a55338b
   SwiftNIO: 3f9a197581f6dfebf65a5c85099f25197d892c8c
   SwiftNIOConcurrencyHelpers: 3670690a0fb8d8a0a4759804d07aaf89c9599839
   SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
 
-PODFILE CHECKSUM: ddf9a64cffe6ec8854e29f2fb7809e3676650ca7
+PODFILE CHECKSUM: 554f86e75a9452c0ebce22b4fff6b4a9fa2e72c2
 
 COCOAPODS: 1.10.0

@@ -8,11 +8,20 @@
 import Cocoa
 
 class ViewController: NSViewController {
-
+    
+    
+    
+    // MARK: - Variables
+    
+    // MARK: - Outlets
+    
+    // MARK: - Lifecycle
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
     }
 
     override var representedObject: Any? {
@@ -20,7 +29,11 @@ class ViewController: NSViewController {
         // Update the view, if already loaded.
         }
     }
-
+    
+    // MARK: - Actions
+    
+    // MARK: - Functions
+    
 
 }
 

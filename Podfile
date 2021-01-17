@@ -10,5 +10,6 @@ target 'SautrogSystem-MacOS' do
 	pod 'SwiftyJSON'
 	pod 'Alamofire'
 	pod 'SwiftNIO'
+	pod 'NSGradientView'
 
 end

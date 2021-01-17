@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4A0A66DC2DC19095E11E5D3A679802D4"
-               BuildableName = "CNIOWindows.framework"
-               BlueprintName = "CNIOWindows"
+               BlueprintIdentifier = "635A0A1303CA539655BECBC0E165646E"
+               BuildableName = "NSGradientView.framework"
+               BlueprintName = "NSGradientView"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
